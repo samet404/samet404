@@ -1,7 +1,7 @@
 
 # ✨ Hello!
 
-I'm an 18 yo self-taught full-stack web and native android developer from Turkey. I'm having fun building problem solving, performant and secure applications. Always like to learn new things and improve myself. 
+I'm an 18 yo person who chose programming as my career. I work 90 hours per week myself to learn computer science, trying to learn everything I can to create new projects, from web development to machine learning. Because I love computers, I enjoy seeing how powerful binary can be. I have many other hobbies like reading, writing, watching movies, and playing games.
 
 ## My other accounts:
 
