@@ -1,5 +1,5 @@
 
-# ✨ Hello!
+# Hello! 👋
 
 I'm an 18 yo person who chose programming as my career. I work 80 hours per week myself, trying to learn everything I can to create new projects, from web development to machine learning. Because I love computers, I enjoy seeing how powerful binary can be. I have many other hobbies like reading, writing, watching movies, and playing games.
 
