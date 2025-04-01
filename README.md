@@ -1,7 +1,7 @@
 
 # Hello! 👋
 
-I'm an 18 yo software engineer. I work 80 hours per week myself, trying to learn everything I can to create new projects, from web development to machine learning. Because I love computers, I enjoy seeing how powerful binary can be. I have many other hobbies like reading, writing, watching movies, and playing games.
+I'm 18 years-old fullstack developer and working 80 hours per week. I can create mobile apps, websites, desktop apps and backend services. I'm interested in kotlin and web development. I like to learn new things and I love computers. I have many other hobbies like reading, writing, watching movies, and playing games.
 
 ## My other accounts:
 
