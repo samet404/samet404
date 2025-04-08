@@ -9,5 +9,5 @@ I can create mobile apps, websites, desktop apps and backend services. I'm inter
 
 - My personal website: https://notfound404.dev
 - Linkedin: https://www.linkedin.com/in/samet-alpdeger-291a132b5/
-- Discord: **404nnotfoundd**
+- Discord: `404nnotfoundd`
 - Stack overflow: https://stackoverflow.com/users/22740544/404nnotfoundd
