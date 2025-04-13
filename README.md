@@ -1,7 +1,7 @@
 
 # Hello 🌱
 
-I'm 19 years-old fullstack developer and working 80 hours per week and currently working on [Bloomy](https://github.com/sametalpdeger/Bloomy), [Dysphoria](https://github.com/sametalpdeger/Dysphoria) and [Jetmark](https://github.com/sametalpdeger/Jetmark/).
+I'm 19 years-old fullstack developer, working 80 hours per week and currently working on [Bloomy](https://github.com/sametalpdeger/Bloomy), [Dysphoria](https://github.com/sametalpdeger/Dysphoria) and [Jetmark](https://github.com/sametalpdeger/Jetmark/).
 
 I can create mobile apps, websites, desktop apps and backend services. I like to learn new things and love computers. I have so many hobbies like reading, writing, watching movies, and playing games :P
 
