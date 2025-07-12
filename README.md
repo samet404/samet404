@@ -11,7 +11,7 @@
   
 # Hello 🌱
 
-I'm 19 years-old fullstack developer, working 100 hours per week and currently working on [PIXGU](https://github.com/samet404/PIXGU), [Dysphoria](https://github.com/HellowStudios/Dysphoria), [Aspect](https://github.com/aspect-chat/aspect-chat) and [Bloomia](https://bloomia.app).
+I'm 19 years-old fullstack developer, working 100 hours per week and currently working on [https://bloomia.app](https://bloomia.app) and [https://pixgu.com](https://pixgu.com)
 
   <img
     src="https://notfound404.dev/images/svg/kotlin.svg"
