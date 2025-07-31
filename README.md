@@ -46,5 +46,5 @@ I can create mobile apps, websites, desktop apps and backend services. I like to
 
 - Discord: `404nnotfoundd`
 - My personal website: https://notfound404.dev
-- Mail: `notfound404dev@gmail.com`
+- Mail: <a href="mailto:hi@notfound404.dev">hi@notfound404.dev</a>
 - Stack overflow: https://stackoverflow.com/users/22740544/404nnotfoundd
