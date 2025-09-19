@@ -12,6 +12,7 @@
 # Hello 🌱
 
 I'm 19 years-old fullstack developer, working 100 hours per week and currently working at [Vasa](https://www.vasa.works/)
+
 Hobby projects sometimes I'm working on: [https://bloomia.app](https://bloomia.app), Strawberry engine (under development)
 
   <img
