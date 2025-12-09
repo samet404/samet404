@@ -13,8 +13,6 @@
 
 I'm 19 years-old fullstack developer working at [Vasa](https://www.vasa.works/)
 
-Hobby projects sometimes I'm working on: [https://bloomia.app](https://bloomia.app)
-
   <img
     src="https://notfound404.dev/images/svg/kotlin.svg"
     width="30"
