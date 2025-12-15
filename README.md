@@ -1,14 +1,3 @@
-
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=samet404&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/samet404"
-    width="600"
-    height="120"
-  />
-</a>
-
-  
 # Hello 🌱
 
 I'm 19 years-old fullstack developer working at [Vasa](https://www.vasa.works/)
