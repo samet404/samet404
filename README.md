@@ -33,7 +33,7 @@ I can create mobile apps, websites, desktop apps and backend services. I like to
 
 ## My other accounts:
 
-- Discord: `404nnotfoundd`
+- You can dm me in X: [`404nnotfoundd`](https://x.com/404nnotfounddd)
 - My personal website: https://notfound404.dev
 - Mail: <a href="mailto:hi@notfound404.dev">hi@notfound404.dev</a>
 - Stack overflow: https://stackoverflow.com/users/22740544/404nnotfoundd
