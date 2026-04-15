@@ -1,6 +1,6 @@
 # Hello 🌱
 
-I'm 19 years-old fullstack developer working at [Vasa](https://www.vasa.works/)
+I'm 20 yo "fullstack web" and "hobbyist C developer"
 
   <img
     src="https://notfound404.dev/images/svg/kotlin.svg"
