@@ -2,31 +2,12 @@
 
 I'm 20 yo "fullstack web" and "hobbyist C developer"
 
-  <img
-    src="https://notfound404.dev/images/svg/kotlin.svg"
-    width="30"
-    height="30"
-  />
-   <img
-    src="https://notfound404.dev/images/svg/typescript.svg"
-    width="30"
-    height="30"
-  />
-   <img
-    src="https://notfound404.dev/images/svg/c.svg"
-    width="30"
-    height="30"
-  />
-    <img
-    src="https://notfound404.dev/images/svg/react.svg"
-    width="30"
-    height="30"
-  />
-    <img
-    src="https://www.notfound404.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnextjs.dee1d794.png&w=640&q=75"
-    width="30"
-    height="30"
-  />
+<img src="https://notfound404.dev/images/svg/kotlin.svg" width="30" height="30" />
+<img src="https://notfound404.dev/images/svg/typescript.svg" width="30" height="30" />
+<img src="https://notfound404.dev/images/svg/c.svg" width="30" height="30" />
+<img src="https://notfound404.dev/images/svg/react.svg" width="30" height="30" />
+<img src="https://www.notfound404.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnextjs.dee1d794.png&w=640&q=75" width="30" height="30" />
+  
 
   
 I can create mobile apps, websites, desktop apps and backend services. I like to learn new things and love computers. I have so many hobbies like reading, writing, watching movies, and playing games :P
